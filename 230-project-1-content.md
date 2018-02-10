@@ -31,7 +31,7 @@ Eating Sound-
 Background Sound-
 
 ## VI. Gameplay
-# Mechanics
+### Mechanics
 
 What specific choices can the player make and what can they do?
 
@@ -41,7 +41,7 @@ Here are some compilations of game mechanics you might find helpful:
     SCVNGR game mechanics or as Flashcards
     gamification.org - Game Mechanics
 
-# Controls
+### Controls
 
 Be specific, here are many of the options:
 
@@ -56,7 +56,7 @@ Move Up - Up Arrow Key, W
 Move Down - Down Arrow Key, S
  
 
-# Teaching the game/New user experience aka "Onboarding"
+## Teaching the game/New user experience aka "Onboarding"
 
 How is the player taught how to play the game? Is this integrated into the gameplay, are there separate instructional scenes, a tutorial, or some combination? Is it obvious to the player how to play the game? See Cascading Information Theory on the SCVNGR game mechanics page.
 Player learning
@@ -68,10 +68,10 @@ Mockups:
 Have at least 2 mockup screens of the game. They can be hand drawn and scanned, Photoshop mockups, or scanned doodles - use <img> tags. You can either display the images in this section, or somewhere else on the page.
 
 ## VIII. Other
-# Why?
+### Why?
 I decided to create this game, because I'm very nostalgia of Jelly Blobs of Dooms. I remember playing for hours with my sister. 
 
-# External Libraries
+### External Libraries
 I don't know what external libraries I would use for this game. 
 
 ## IX. About the developer(s)
