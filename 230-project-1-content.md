@@ -22,11 +22,14 @@ For your proposed game, discuss the theme (big ideas - if applicable), mood (exc
 Also discuss player motivation. Give a short summary of what the player is trying to accomplish in the game. Some of this will be recycled from the High Concept section above.
 ## V. Aesthetics
 
-Graphics style - abstract, cartoonish, photo-realistic?.
+Graphics style - Cartoonish
+Sound - Ambient
 
-Sound - probably pretty simple - 8-bit, ambient, techno, looped, procedural?
+Scoring Sound-
+Death Sound-
+Eating Sound-
+Background Sound-
 
-Discuss the types of sound your game has: scoring, effect, UI, background, zone (varies by player location)?
 ## VI. Gameplay
 Mechanics
 
@@ -42,9 +45,12 @@ Control
 
 Be specific, here are many of the options:
 
-    Keyboard and/or mouse
-    Touch and/or gesture (Mobile only)
-    Accelerometer (Mobile only)
+Drop Bomb - Space Bar
+Move Left - Left Arrow Key, A
+Move Right - Right Arrow Key, D
+Move Up - Up Arrow Key, W
+Move Down - Down Arrow Key, S
+ 
 
 Teaching the game/New user experience aka "Onboarding"
 
