@@ -23,11 +23,15 @@ Also discuss player motivation. Give a short summary of what the player is tryin
 ## V. Aesthetics
 
 Graphics style - Cartoonish
+###Sounds
 Sound - Ambient
 
 Scoring Sound -
+
 Death Sound -
+
 Eating Sound -
+
 Background Sound -
 
 ## VI. Gameplay
