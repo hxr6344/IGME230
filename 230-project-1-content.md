@@ -1,28 +1,17 @@
 
-Your Game Name
-I. High Concept
-
-One-liner (or up to 3 sentences) synopsis that pitches and summarizes your game.
-
+# 
+## I. High Concept
 Use one of these techniques:
+   "It's Jelly Bombs of Doom but you can drop bombs to destroy bigger enemies with bombs!"
 
-    Simile - a twist on an existing game - "It's Pacman but you can change the maze and attack ghosts!"
-    Combination - combine 2 existing games - "It's Pacman meets Mega Man!"
-    Primary Action - "While avoiding ghosts and other hazards, the player can alter the maze and set traps to eliminate the ghosts."
+## II. Genre
 
-II. Genre
+Action, Casual, Avoidance, Eat or Be Eaten
 
-Identify the gameplay genre(s) the game belongs to. This may also be mentioned in the High Concept section above.
+## III. Platform
+Desktop. 
 
-    Gameplay genre - platformer, puzzle, shooter, sim? Here are three taxonomies: http://en.wikipedia.org/wiki/Video_game_genres and http://vsrecommendedgames.wikia.com/wiki/A_List_and_Guide_to_Game_Genres and http://www.ferzkopp.net/...
-    IGN genres: Action, Adventure, Battle, Board, Card, Casino, Compilation, Educational, Fighting, Flight, Hunting, Music, Other, Pinball, Platformer, Party, Productivity, Puzzle, RPG, Racing, Shooter, Simulation, Sports, Strategy, Trivia, Virtual Pet, and Wrestling.
-    Apple App Store genres: Action, Adventure, Arcade, Board, Card, Casino, Dice, Educational, Family, Music, Puzzle, Racing, Role Playing, Simulation, Sports, Strategy, Trivia, and Word.
-    Additional descriptors: avoidance, chainreaction, defense, escape, exploration, hackandslash, match-3, onemorelevel or "push your luck" game? This list of tags at https://jayisgames.com/tags/ might be helpful.
-
-III. Platform
-
-Either desktop only, mobile only, "mobile-friendly", tablet, phone, universal.
-IV. Story
+## IV. Story
 
 Some games are purely abstract and have no story or theme (ex. Tetris).
 
@@ -31,14 +20,14 @@ But most games at least have a premise to define the action (ex. Your avatar is 
 For your proposed game, discuss the theme (big ideas - if applicable), mood (excitement, fear, ?), narrative (how the player progresses through the game), and premise of the game (what drives the plot).
 
 Also discuss player motivation. Give a short summary of what the player is trying to accomplish in the game. Some of this will be recycled from the High Concept section above.
-V. Esthetics
+## V. Aesthetics
 
 Graphics style - abstract, cartoonish, photo-realistic?.
 
 Sound - probably pretty simple - 8-bit, ambient, techno, looped, procedural?
 
 Discuss the types of sound your game has: scoring, effect, UI, background, zone (varies by player location)?
-VI. Gameplay
+## VI. Gameplay
 Mechanics
 
 What specific choices can the player make and what can they do?
