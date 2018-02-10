@@ -25,10 +25,10 @@ Also discuss player motivation. Give a short summary of what the player is tryin
 Graphics style - Cartoonish
 Sound - Ambient
 
-Scoring Sound-
-Death Sound-
-Eating Sound-
-Background Sound-
+Scoring Sound -
+Death Sound -
+Eating Sound -
+Background Sound -
 
 ## VI. Gameplay
 ### Mechanics
@@ -43,8 +43,6 @@ Here are some compilations of game mechanics you might find helpful:
 
 ### Controls
 
-Be specific, here are many of the options:
-
 Drop Bomb - Space Bar
 
 Move Left - Left Arrow Key, A
@@ -56,10 +54,11 @@ Move Up - Up Arrow Key, W
 Move Down - Down Arrow Key, S
  
 
-## Teaching the game/New user experience aka "Onboarding"
+### Teaching the game/New user experience aka "Onboarding"
 
-How is the player taught how to play the game? Is this integrated into the gameplay, are there separate instructional scenes, a tutorial, or some combination? Is it obvious to the player how to play the game? See Cascading Information Theory on the SCVNGR game mechanics page.
-Player learning
+There are separate instructional scenes, with a tutorial for movement and bomb dropping
+
+### Player learning
 
 Explain some of what the player needs to learn to beat the game. Be specific and cite actual powerups, combos, and strategies. Here we are talking about depth - which is simply (according to Extra Credits) "the number of emergent experientially different possibilities (or meaningful choices) that come out of one ruleset."
 
@@ -69,7 +68,7 @@ Have at least 2 mockup screens of the game. They can be hand drawn and scanned, 
 
 ## VIII. Other
 ### Why?
-I decided to create this game, because I'm very nostalgia of Jelly Blobs of Dooms. I remember playing for hours with my sister. 
+I decided to create this game, because I'm very nostalgia of Jelly Blobs of Dooms. I remember playing for hours with my sister when I was little.  
 
 ### External Libraries
 I don't know what external libraries I would use for this game. 
