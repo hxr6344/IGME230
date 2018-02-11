@@ -8,12 +8,12 @@ It's Jelly Bombs of Doom but you can drop bombs to destroy bigger enemies with b
 Action, Casual, Avoidance, Eat or Be Eaten
 
 ## III. Platform
-Desktop
+On Desktop.
 
 ## IV. Story
 
 Some games are purely abstract and have no story or theme (ex. Tetris).
-
+The theme of the game is 
 But most games at least have a premise to define the action (ex. Your avatar is running from ghosts in a maze).
 
 For your proposed game, discuss the theme (big ideas - if applicable), mood (excitement, fear, ?), narrative (how the player progresses through the game), and premise of the game (what drives the plot).
@@ -60,7 +60,7 @@ Move Down - Down Arrow Key, S
 
 ### Teaching the game/New user experience aka "Onboarding"
 
-There are separate instructional scenes, with a tutorial for movement and bomb dropping
+There are separate instructional scenes, with a tutorial for movement and bomb dropping. 
 
 ### Player learning
 
