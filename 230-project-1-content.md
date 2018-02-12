@@ -1,7 +1,7 @@
 
 # Molten Madness
 ## I. High Concept
-It's Jelly Bombs of Doom but you can drop bombs to destroy bigger enemies with bombs!
+It's Jelly Bombs of Doom but you can drop bombs to destroy enemies with bombs!
 
 ## II. Genre
 
@@ -12,26 +12,29 @@ On Desktop.
 
 ## IV. Story
 
-The theme is Volcanic Creatures. You play as a volcanic creature trying to survive on your island by eating small molten creatures, to grow bigger  but be careful, a bigger creature might take a bite of 
-But most games at least have a premise to define the action (ex. Your avatar is running from ghosts in a maze).
+Your avatar is running away from larger creatures and eating smaller ones to gain points, and increase in size. 
+
+You play as a volcanic creature trying to survive on your island by eating small molten creatures. Be careful! It's eat or be eaten! To avoid the risk of being eaten because of your size by a larger molten creature, grow in size by eating smaller molten creatures and drop water bombs to destroy larger enemies in your path. Your goal in life, is to try to beat your previous highscores, see how long you can survive and try to be the biggest creature on the food chain. 
+
+But most games at least have a premise to define the action (ex. Your avatar is rusnning from ghosts in a maze).
 
 For your proposed game, discuss the theme (big ideas - if applicable), mood (excitement, fear, ?), narrative (how the player progresses through the game), and premise of the game (what drives the plot).
+A continuous level game, where the play has only one life, and when they are eaten by an enemy, the game is over. 
 
 Also discuss player motivation. Give a short summary of what the player is trying to accomplish in the game. Some of this will be recycled from the High Concept section above.
 
 ## V. Aesthetics
 
 Graphics style - Cartoonish
-###Sounds
-Sound - Ambient
+
+### Sounds
+Background Sound - Ambient
 
 Death Sound - Fizzling 
 
 Bomb Detonated Sound - Water splash
 
 Eating Sound - Crackle of a Fire
-
-Background Sound - 
 
 ## VI. Gameplay
 ### Mechanics
@@ -74,8 +77,10 @@ Have at least 2 mockup screens of the game. They can be hand drawn and scanned, 
 I decided to create this game, because I'm very nostalgia of Jelly Blobs of Dooms. I remember playing for hours with my sister when I was little.  
 
 ### External Libraries
-I don't know what external libraries I would use for this game. 
+I don't know if I will being using External Libraries for this project.
 
+Sound Library - https://www.zapsplat.com/
+Art Assets - 
 ## IX. About the developer(s)
 
 My name is Haley Rogers. I am second year, Game Design and Development Student at Rochester Institute of Technology. My programming skills are C#, HTML, CSS. My drawing software skills are Maya, Painter Sai and Photoshop. This semester, I am learning C++, PHP and Java Script. I like to draw traditionally and 3D model characters in Maya. I also like to do yoga, and archery. 
