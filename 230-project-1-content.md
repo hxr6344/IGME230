@@ -1,19 +1,18 @@
 
-# Game Name
+# Molten Madness
 ## I. High Concept
 It's Jelly Bombs of Doom but you can drop bombs to destroy bigger enemies with bombs!
 
 ## II. Genre
 
-Action, Casual, Avoidance, Eat or Be Eaten
+Action, Casual, Avoidance, Eat or Be Eaten, Survival of Fittest 
 
 ## III. Platform
 On Desktop.
 
 ## IV. Story
 
-Some games are purely abstract and have no story or theme (ex. Tetris).
-The theme of the game is 
+The theme is Volcanic Creatures. You play as a volcanic creature trying to survive on your island by eating small molten creatures, to grow bigger  but be careful, a bigger creature might take a bite of 
 But most games at least have a premise to define the action (ex. Your avatar is running from ghosts in a maze).
 
 For your proposed game, discuss the theme (big ideas - if applicable), mood (excitement, fear, ?), narrative (how the player progresses through the game), and premise of the game (what drives the plot).
@@ -26,19 +25,19 @@ Graphics style - Cartoonish
 ###Sounds
 Sound - Ambient
 
-Scoring Sound -
+Death Sound - Fizzling 
 
-Death Sound -
+Bomb Detonated Sound - Water splash
 
-Eating Sound -
+Eating Sound - Crackle of a Fire
 
-Background Sound -
+Background Sound - 
 
 ## VI. Gameplay
 ### Mechanics
 
 What specific choices can the player make and what can they do?
-
+You can chose to eat an enemy by 
 Here are some compilations of game mechanics you might find helpful:
 
     squidi.net/three/
