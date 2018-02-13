@@ -69,7 +69,8 @@ I decided to create this game, because I'm very nostalgia of Jelly Blobs of Doom
 I don't know if I will being using External Libraries for this project.
 
 Sound Library - https://www.zapsplat.com/
-Art Assets - Attempting to draw them myself, else 
+
+Art Assets - Drawing the Assets myself
 ## IX. About the developer(s)
 
 My name is Haley Rogers. I am second year, Game Design and Development Student at Rochester Institute of Technology. My programming skills are C#, HTML, CSS. My drawing software skills are Maya, Painter Sai and Photoshop. This semester, I am learning C++, PHP and Java Script. I like to draw traditionally and 3D model characters in Maya. I also like to do yoga, and archery. 
