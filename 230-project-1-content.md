@@ -57,7 +57,8 @@ The player need to be able to judge if the smaller enemy can actually be eaten, 
 
 ## VII. Screenshots
 Mockups:
-
+![Instructions](https://people.rit.edu/~hxr6344/230/project1/media/instructions.jpg)
+![Gameplay](https://people.rit.edu/~hxr6344/230/project1/media/gameplay.jpg)
 Have at least 2 mockup screens of the game. They can be hand drawn and scanned, Photoshop mockups, or scanned doodles - use <img> tags. You can either display the images in this section, or somewhere else on the page.
 
 ## VIII. Other
